@@ -20,7 +20,7 @@ const (
     TYPE = "post"
     DISTANCE = "200km"
     // Needs to update
-    PROJECT_ID = "vertical-idea-199601 "
+    PROJECT_ID = "vertical-idea-199601"
     BT_INSTANCE = "around-post"
     // Needs to update this URL if you deploy it to cloud.
     ES_URL = "http://35.231.149.221:9200"
